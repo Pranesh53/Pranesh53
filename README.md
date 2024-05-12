@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://twitter.com/pran_53" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pran_53" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pranesh03" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pranesh03" height="30" width="40" /></a>
-<a href="https://fb.com/pranesh pranesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pranesh pranesh" height="30" width="40" /></a>
+<a href="https://fb.com/buster.pranesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="buster.pranesh" height="30" width="40" /></a>
 <a href="https://instagram.com/pranesh.xz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="pranesh.xz" height="30" width="40" /></a>
 </p>
 
